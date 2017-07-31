@@ -8,7 +8,7 @@ akashgupta222 | akii.gupta16@gmail.com
 The approach for the solution is as follows: 
 
 # Preprocessing
-## Reading the csv files and making data structures:
+ Reading the csv files and making data structures:
 ### user_data.csv
 -  Columns Read: 'event_time', 'user_id' ,'event', 'ad_id'
 -  Converted event time from string to pandas datetime
